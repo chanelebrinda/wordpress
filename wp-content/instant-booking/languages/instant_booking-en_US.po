@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Instant-Booking\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-23 10:30+0000\n"
+"PO-Revision-Date: 2022-10-23 10:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: instant_booking"
+
+#: inc/Base/CPTController.php:120
+msgid "Afficher la client"
+msgstr "View the customer"
+
+#: inc/Base/CPTController.php:121
+msgid "Afficher les clients"
+msgstr "View the customers"
+
+#: inc/Base/CPTController.php:115 inc/Base/CPTController.php:116
+msgid "Ajouter une client"
+msgstr "Add the customer"
+
+#: template/dashboard.php:209 template/dashboard.php:440
+msgid "Annulé"
+msgstr "Canceled"
+
+#: template/dashboard.php:173 template/dashboard.php:437
+msgid "Approuvé"
+msgstr "Approved"
+
+#: inc/Pages/Admin.php:19
+msgid "Booking Tentee"
+msgstr ""
+
+#: inc/Pages/Admin.php:27
+msgid "calendrier"
+msgstr "calendar"
+
+#: inc/Pages/Admin.php:47
+msgid "Categories"
+msgstr "Category"
+
+#: inc/Base/CPTController.php:113
+msgid "Client"
+msgstr "Custumer"
+
+#: inc/Base/CPTController.php:111
+msgid "client"
+msgstr "custumer"
+
+#: inc/Base/CPTController.php:112
+msgid "Clients"
+msgstr "Custumers"
+
+#: template/dashboard.php:441
+msgid "Complete"
+msgstr ""
+
+#: template/dashboard.php:221
+msgid "Complète"
+msgstr ""
+
+#: inc/Pages/Admin.php:23
+msgid "Dashboard"
+msgstr ""
+
+#: template/dashboard.php:474
+msgid "Debut"
+msgstr ""
+
+#: inc/Pages/Admin.php:35
+msgid "Employe"
+msgstr ""
+
+#: template/dashboard.php:185 template/dashboard.php:438
+msgid "En Attente"
+msgstr ""
+
+#: template/dashboard.php:110
+msgid "En attente de payement"
+msgstr ""
+
+#: inc/Pages/Admin.php:43
+msgid "Extras"
+msgstr ""
+
+#: template/dashboard.php:478
+msgid "Fin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://tenteeglobal.com/"
+msgstr ""
+
+#: inc/Pages/Admin.php:19
+msgid "Instant booking"
+msgstr ""
+
+#. Name of the plugin
+msgid "Instant-Booking"
+msgstr ""
+
+#: inc/Base/CPTController.php:119
+msgid "Mettre à jour la client"
+msgstr ""
+
+#. Description of the plugin
+msgid "module de réservation de services(voitures,hotels,salles,outils etc..)"
+msgstr ""
+
+#: template/dashboard.php:121
+msgid "Nombres De Client(s)"
+msgstr ""
+
+#: inc/Base/CPTController.php:117
+msgid "Nouvelles client"
+msgstr ""
+
+#: inc/Base/CPTController.php:124
+msgid "Pas de client dans la corbeille"
+msgstr ""
+
+#: inc/Base/CPTController.php:123
+msgid "Pas de client trouvé"
+msgstr ""
+
+#: template/dashboard.php:98
+msgid "Payée(s)"
+msgstr ""
+
+#: inc/Base/CPTController.php:122
+msgid "Rechercher parmi les clients"
+msgstr ""
+
+#: template/dashboard.php:439
+msgid "Rejeté"
+msgstr ""
+
+#: template/dashboard.php:197
+msgid "Rejété"
+msgstr ""
+
+#: inc/Pages/Admin.php:31
+msgid "Reservation"
+msgstr ""
+
+#: template/dashboard.php:87
+msgid "Reservations"
+msgstr ""
+
+#: template/dashboard.php:448
+msgid "Reservations en cours"
+msgstr ""
+
+#: template/dashboard.php:141
+msgid "Revenue"
+msgstr ""
+
+#: inc/Pages/Admin.php:27
+msgid "Section calendrier"
+msgstr ""
+
+#: inc/Pages/Admin.php:47
+msgid "Section categorie"
+msgstr ""
+
+#: inc/Pages/Admin.php:23
+msgid "Section Dashboard"
+msgstr ""
+
+#: inc/Pages/Admin.php:35
+msgid "Section employee"
+msgstr ""
+
+#: inc/Pages/Admin.php:43
+msgid "Section extra"
+msgstr ""
+
+#: inc/Pages/Admin.php:31
+msgid "Section reservation"
+msgstr ""
+
+#: inc/Pages/Admin.php:39
+msgid "Section settings"
+msgstr ""
+
+#: inc/Pages/Admin.php:39
+msgid "Settings"
+msgstr ""
+
+#: template/dashboard.php:435
+msgid "Status Des Reservations"
+msgstr "Booking status"
+
+#: template/dashboard.php:42
+msgid "Tableau de bord"
+msgstr "Dashbord"
+
+#. Author of the plugin
+msgid "Tentee global"
+msgstr ""
+
+#: inc/Base/CPTController.php:114
+msgid "Tous les clients"
+msgstr "All the custumers"
+
+#: inc/Base/CPTController.php:118
+msgid "Éditer la client"
+msgstr ""

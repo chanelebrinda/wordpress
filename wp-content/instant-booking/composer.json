@@ -1,0 +1,10 @@
+{
+    "require": {
+        "stripe/stripe-php": "^8.5",
+        "spipu/html2pdf": "^4.6",
+        "dompdf/dompdf": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {"Inc\\" : "./inc"}
+    }
+}

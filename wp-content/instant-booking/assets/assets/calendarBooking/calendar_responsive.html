@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+    <script>
+        // Ignore this in your implementation
+        window.isMbscDemo = true;
+    </script>
+
+    <title>Responsive behavior</title>
+
+    <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+
+    <!-- Mobiscroll JS and CSS Includes -->
+    <link rel="stylesheet" href="css/mobiscroll.jquery.min.css">
+    <script src="js/mobiscroll.jquery.min.js"></script>
+
+    <style type="text/css">
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    button {
+        display: inline-block;
+        margin: 5px 5px 0 0;
+        padding: 10px 30px;
+        outline: 0;
+        border: 0;
+        cursor: pointer;
+        background: #5185a8;
+        color: #fff;
+        text-decoration: none;
+        font-family: arial, verdana, sans-serif;
+        font-size: 14px;
+        font-weight: 100;
+    }
+
+    input {
+        width: 100%;
+        margin: 0 0 5px 0;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 0;
+        font-family: arial, verdana, sans-serif;
+        font-size: 14px;
+        box-sizing: border-box;
+        -webkit-appearance: none;
+    }
+
+    .mbsc-page {
+        padding: 1em;
+    }
+
+    </style>
+
+</head>
+<body>
+
+<div mbsc-page class="demo-responsive">
+  <div style="height:100%">
+      <label>
+        <input id="demo-responsive" mbsc-input data-label-style="stacked" data-input-style="box" placeholder="Please Select..." />
+    </label>
+  </div>
+</div>
+
+<script>
+
+    mobiscroll.setOptions({
+        locale: mobiscroll.localeFr,      // Specify language like: locale: mobiscroll.localePl or omit setting to use default
+        theme: 'ios',                     // Specify theme like: theme: 'ios' or omit setting to use default
+            themeVariant: 'light'         // More info about themeVariant: https://docs.mobiscroll.com/5-16-2/calendar#opt-themeVariant
+    });
+    
+    $(function () {
+        // Mobiscroll Calendar initialization
+        $('#demo-responsive').mobiscroll().datepicker({
+            controls: ['calendar'],       // More info about controls: https://docs.mobiscroll.com/5-16-2/calendar#opt-controls
+            responsive: {                 // More info about responsive: https://docs.mobiscroll.com/5-16-2/calendar#opt-responsive
+                xsmall: {
+                    display: 'bottom'     // Specify display mode like: display: 'bottom' or omit setting to use default
+                },
+                small: {
+                    display: 'anchored'   // Specify display mode like: display: 'bottom' or omit setting to use default
+                },
+                custom: { // Custom breakpoint
+                    breakpoint: 800,
+                    display: 'anchored',  // Specify display mode like: display: 'bottom' or omit setting to use default
+                    touchUi: false        // More info about touchUi: https://docs.mobiscroll.com/5-16-2/calendar#opt-touchUi
+                }
+            }
+        });
+    });
+</script>
+
+</body>
+</html>

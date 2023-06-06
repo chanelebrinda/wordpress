@@ -1,0 +1,4 @@
+2023-02-27T09:45:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\meta-boxes.php à la ligne 1637
+
+2023-02-27T12:30:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php à la ligne 165
+

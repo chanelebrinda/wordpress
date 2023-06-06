@@ -1,0 +1,81 @@
+2023-02-28T13:43:54+00:00 CRITICAL Uncaught Error: Call to undefined function bsend_insert() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): intiatebsendPayement('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_intiate...')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php à la ligne 62
+
+2023-02-28T14:00:16+00:00 CRITICAL Uncaught Error: Call to undefined function bsend_insert() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): intiatebsendPayement('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_intiate...')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php à la ligne 62
+
+2023-02-28T14:31:52+00:00 CRITICAL Uncaught Error: Call to undefined function bsend_insert() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): intiatebsendPayement('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_intiate...')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php à la ligne 62
+
+2023-02-28T14:51:12+00:00 CRITICAL Uncaught Error: Call to undefined function bsend_insert() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): intiatebsendPayement('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_intiate...')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php à la ligne 62
+
+2023-02-28T14:51:12+00:00 CRITICAL Uncaught Error: Call to undefined function bsend_insert() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): intiatebsendPayement('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_intiate...')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php à la ligne 62
+
+2023-02-28T15:04:45+00:00 CRITICAL Uncaught Error: Call to undefined function bsend_insert() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): intiatebsendPayement('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_intiate...')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php à la ligne 62
+
+2023-02-28T15:04:45+00:00 CRITICAL Uncaught Error: Call to undefined function bsend_insert() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): intiatebsendPayement('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_intiate...')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php à la ligne 62
+
+2023-02-28T15:17:54+00:00 CRITICAL Uncaught Error: Call to undefined function bsend_insert() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): intiatebsendPayement('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_intiate...')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php à la ligne 62
+
+2023-02-28T15:22:29+00:00 CRITICAL Uncaught Error: Call to undefined function bsend_insert() in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): intiatebsendPayement('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_intiate...')
+#4 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-bsend-payments\includes\ajax.php à la ligne 62
+

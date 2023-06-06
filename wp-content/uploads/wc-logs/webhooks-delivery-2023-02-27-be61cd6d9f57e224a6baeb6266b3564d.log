@@ -1,0 +1,84 @@
+2023-02-27T15:48:12+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => dd58c81d98c1079f4793b2d638a84f4d
+            [Date] => 27 Fév 2023 @ 15:48
+            [URL] => https://bsend-op.com/api/v1.0/api-checkout
+            [Duration] => 0.61981
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.2.2 Hookshot (WordPress/6.1.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => zF8JK1MnMwbSsFLfeeY9QSaBtaPm1X414EOUnKLPh/U=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => dd58c81d98c1079f4793b2d638a84f4d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => http_request_failed
+                    [Message] => cURL error 35: OpenSSL SSL_connect: Connection was reset in connection to bsend-op.com:443 
+                    [Headers] => Array
+                        (
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2023-02-27T15:52:04+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 5184acd2e24e8f8ba6ab6af4916f04f3
+            [Date] => 27 Fév 2023 @ 15:52
+            [URL] => https://bsend-op.com/api/v1.0/api-checkout
+            [Duration] => 1.12952
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.2.2 Hookshot (WordPress/6.1.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/wordpress/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => mw5xcSxlRkPHbzxnI8fPypTPJSqrY46CjoG3JYt76rU=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => 5184acd2e24e8f8ba6ab6af4916f04f3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => http_request_failed
+                    [Message] => cURL error 35: OpenSSL SSL_connect: Connection was reset in connection to bsend-op.com:443 
+                    [Headers] => Array
+                        (
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
